@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Navbar({filterItem, menuList}) {
+function Navbar({menuList, filterItem}) {
     return (
         <>
             <nav className="navbar">
